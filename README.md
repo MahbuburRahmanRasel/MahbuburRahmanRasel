@@ -6,7 +6,7 @@ and data retrieval methods. Resourceful, and creative
 thinker to continually advance my knowledge of
 relevant technologies.
 
-###Skills:  <br>**Programming**: Python, JavaScript   <br>**Database**: MySql    <br>**Visualization**: Microsoft Power BI, Matpoltlib, Seaborn (Python Library), Excel Charts  <br>**Spread Sheet**: Microsoft Excel, Google Sheets
+### Skills:  <br>**Programming**: Python, JavaScript   <br>**Database**: MySql    <br>**Visualization**: Microsoft Power BI, Matpoltlib, Seaborn (Python Library), Excel Charts  <br>**Spread Sheet**: Microsoft Excel, Google Sheets
 
 - 🔭 I’m currently working on this page. 
 
